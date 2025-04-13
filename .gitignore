@@ -1,2 +1,7 @@
 .env
 .vllm
+prometheus/
+node_exporter/
+logs/
+data/
+*.deb
